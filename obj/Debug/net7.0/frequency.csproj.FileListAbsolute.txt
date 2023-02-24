@@ -1,0 +1,15 @@
+D:\Programming\CSharp\frequency\bin\Debug\net7.0\frequency.exe
+D:\Programming\CSharp\frequency\bin\Debug\net7.0\frequency.deps.json
+D:\Programming\CSharp\frequency\bin\Debug\net7.0\frequency.runtimeconfig.json
+D:\Programming\CSharp\frequency\bin\Debug\net7.0\frequency.dll
+D:\Programming\CSharp\frequency\bin\Debug\net7.0\frequency.pdb
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.csproj.AssemblyReference.cache
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.AssemblyInfoInputs.cache
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.AssemblyInfo.cs
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.dll
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\refint\frequency.dll
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.pdb
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\frequency.genruntimeconfig.cache
+D:\Programming\CSharp\frequency\obj\Debug\net7.0\ref\frequency.dll
